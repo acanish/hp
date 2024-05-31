@@ -5,7 +5,7 @@
 							<section class="panel banner right">
 								<div class="content color0 span-6">
 									<p>
-										<table style="font-size:16.0pt;">
+										<table style="font-size:16">
 											<tbody>
 											<tr>
 											<td> <a href=" # ">  </a> </td>
@@ -27,7 +27,6 @@
 											<td> <a href=" # ">  </a> </td>
 											<td> <a href=" # ">  </a> </td>
 											</tr>
-
 
 											<tr>
 											<td> <a href=" # ">  </a> </td>
@@ -50,33 +49,33 @@
 									<p>
 										<table style="font-size:16.0pt;">
 											<tbody>
-                        <tr>
-                          <td> <a href="#">  </a> </td>
-                          <td> <a href="#">  </a> </td>
-                          <td> <a href="#">  </a> </td>
-                          <td> <a href="#">  </a> </td>
-                         </tr>
+	   										<tr>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											</tr>
 
-                         <tr>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                          </tr>
-                            
-                          <tr>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                          </tr>
-                            
-                          <tr>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                           <td> <a href="#">  </a> </td>
-                          </tr>
+											<tr>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											</tr>
+
+											<tr>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											</tr>
+
+											<tr>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											<td> <a href=" # ">  </a> </td>
+											</tr>
 											</tbody>
 										</table>
 									</p>
