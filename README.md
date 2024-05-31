@@ -5,7 +5,7 @@
 							<section class="panel banner right">
 								<div class="content color0 span-6">
 									<p>
-										<table style="font-size:16">
+										<table style="font-size:16;">
 											<tbody>
 											<tr>
 											<td> <a href=" # ">  </a> </td>
@@ -47,7 +47,7 @@
 							<section class="panel spotlight large left">
 								<div class="content span-10">
 									<p>
-										<table style="font-size:16.0pt;">
+										<table style="font-size:16;">
 											<tbody>
 	   										<tr>
 											<td> <a href=" # ">  </a> </td>
