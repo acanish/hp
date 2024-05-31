@@ -1,6 +1,5 @@
 # Cheet Sheet
 
-
 						<!-- Panel (Banner) -->
 							<section class="panel banner right">
 								<div class="content color0 span-6">
